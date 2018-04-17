@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "Sppaace Shooter.data.unityweb",
+"asmCodeUrl": "Sppaace Shooter.asm.code.unityweb",
+"asmMemoryUrl": "Sppaace Shooter.asm.memory.unityweb",
+"asmFrameworkUrl": "Sppaace Shooter.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
